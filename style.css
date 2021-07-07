@@ -14,15 +14,15 @@ a {
 }
 
 @media(max-width:768px) {
-    .navbar-brand {
+/*     .navbar-brand {
         width: 100px;
         height: 50px;
-    }
+    } */
     .navbar-brand img {
         /* margin-left: 15px;
         margin-right: 15px; */
         width: 170px;
-        height: 50px
+        height: 90px
     }
 }
 
